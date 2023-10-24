@@ -28,4 +28,16 @@ chmod +x main.py
 ./main.py
 ```
 
+## You can also use this chatbot using GUI(Graphical User Interface) using 'main2.py' file
+
+### Give required permissions
+```
+chmod +x main2.py
+```
+
+### Run the file
+```
+./main2.py
+```
+
 # I hope you enjoy it 💯 :)
