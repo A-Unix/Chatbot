@@ -1,15 +1,21 @@
-# A-simple-chatbot(Python-only-platforms)
+# A simple chatbot(Python-only-platforms)
 A simple Python script to create a chatbot for your business or enterprise.
 
-# Download the Script
+## Download the Script
 ```
-git clone https://github.com/Atuls-git/A-simple-chatbot-Python-only-.git
+git clone https://github.com/Atuls-git/Chatbot.git
+```
+
+## Go to the folder
+```
+cd Chatbot
 ```
 
 ## Install requirements
 ```
 pip install -r requirements.txt
 ```
+
 ## Give required permissions
 ```
 chmod +x main.py
