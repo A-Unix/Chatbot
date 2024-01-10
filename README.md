@@ -1,11 +1,11 @@
-# A simple chatbot(Python-only-platforms)
+# A simple chatbot(Unix-only-platforms)
 A simple Python script to create a chatbot for your business or enterprise.
 
 ## Please follow the installation and usage instructions given below
 
 ### Download the Script
 ```
-git clone https://github.com/Atuls-git/Chatbot.git
+git clone https://github.com/A-Unix/Chatbot.git
 ```
 
 ### Go to the folder
